@@ -3,6 +3,7 @@
 # Stock Prediction
 
 Create a personal website using Python and the Streamlit library.
+College Mini Project
 
 ## Deployment
 
