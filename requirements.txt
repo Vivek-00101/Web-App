@@ -1,7 +1,5 @@
-pip==22.3.1
-streamlit==1.14.0
-streamlit-lottie==0.0.3
+streamlit==0.82.0
 pystan==2.19.1.1
-yfinance==0.1.85
-plotly==5.11.0
+plotly==4.14.3
 fbprophet==0.7.1
+yfinance==0.1.59
