@@ -1,5 +1,4 @@
 streamlit==1.14.0
 streamlit-lottie==0.0.3
-fbprophet==0.7.1
 yfinance==0.1.85
 plotly==5.11.0
