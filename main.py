@@ -21,10 +21,10 @@ def load_lottieurl(url):
 # animation
 lottie_coding = load_lottieurl("https://assets10.lottiefiles.com/private_files/lf30_wypj5bum.json")
 
-lottie_coding_2 = load_lottieurl("https://assets10.lottiefiles.com/packages/lf20_q7Cm00.json")
+lottie_coding_2 = load_lottieurl("https://assets1.lottiefiles.com/packages/lf20_wh4gk3bb.json")
 
 
-START = "2009-01-01"
+START = "2005-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 with st.container():
 
@@ -33,7 +33,7 @@ with st.container():
 with left_column:
     st.title('Stock Price Prediction')
 with right_column:
-    st_lottie(lottie_coding_2, height=150, key="stock_2")
+    st_lottie(lottie_coding_2, height=300, key="stock_2")
 st.write("_____")
 
 stocks = ('GOOG', 'AAPL', 'MSFT', 'GME', 'AMZN', 'TSLA')
