@@ -1,3 +1,4 @@
+pip==22.3.1
 streamlit==1.14.0
 streamlit-lottie==0.0.3
 yfinance==0.1.85
